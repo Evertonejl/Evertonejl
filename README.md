@@ -1,4 +1,8 @@
-### Olá! eu sou o Everton de Jesus da Luz 👋
+### const evertonDeJesusDaLuz = {
+  nome: "Everton de Jesus da Luz",
+  Area: "DESENVOLVIMENTO WEB",
+  Linguagens: ["JavaScript", "React", "Django"],
+};
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-da-luz-430563219/)
@@ -29,6 +33,10 @@ Back-end
 
 
 </div>
+
+
+
+
 
 
 
